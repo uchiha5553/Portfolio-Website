@@ -1,5 +1,5 @@
 # 🚀 Yasin Çulha - Portfolio Website
-
+![Portfolio Website Screenshot](bg_img\screenshot.png)
 
 ## 🌟 Features
 - **100% Responsive** - Works on all devices  
